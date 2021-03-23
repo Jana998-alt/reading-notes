@@ -2,6 +2,9 @@
 
 ### I am Jana Abdelkader. I am a person who loves learning, trynig new things and life!
 I am a fresh physics graduate, although I adore physics I just can not stick to one thing for my entire life.  Therefore, I am very excited to be learning software development, learn new ways of thincking, researching more about it and becoming a better mind and a better person. 
+this is [My GitHub](https://github.com/Jana998-alt) profile link
+
+
 
 **We have been asignd to read about the concept of **growth mindset**, and to write a summery about it, my summery is below.**
 
