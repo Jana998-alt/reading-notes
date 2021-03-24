@@ -6,8 +6,9 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 Checkout [My GitHub](https://github.com/Jana998-alt) profile link.
 
 
-## Contents
-|1|[Growth mindset](https://github.com/Jana998-alt/reading-notes.git/Growthmindset)|
-|1|[Read 01 - a coder's computer](https://github.com/Jana998-alt/reading-notes.git/Read01)|
-|1|[Read 02a - Learning Markdown](https://github.com/Jana998-alt/reading-notes.git/Read02a)|
-|1|[Read: 02b - Revisions and the cloud](https://github.com/Jana998-alt/reading-notes.git/Read02b)|
+| Contents | |
+| --- | --- |
+| 1 | [Growth mindset](https://github.com/Jana998-alt/reading-notes.git/Growthmindset) |
+| 1 | [Read 01 - a coder's computer](https://github.com/Jana998-alt/reading-notes.git/Read01) |
+| 1 | [Read 02a - Learning Markdown](https://github.com/Jana998-alt/reading-notes.git/Read02a) |
+| 1 | [Read: 02b - Revisions and the cloud](https://github.com/Jana998-alt/reading-notes.git/Read02b) |
