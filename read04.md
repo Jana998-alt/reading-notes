@@ -6,6 +6,9 @@ To know what type of interaction should be made, a lot of thoaght must be put to
 After answering all of these questions, start planning through these steps: 
 1.  define the goal
 2. design the script (use flow charts) 
+
+![Flowchart key](flowchartkey.PNG)
+
 3. code each step
 
 
