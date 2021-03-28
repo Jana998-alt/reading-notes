@@ -13,3 +13,4 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 3 | [Read 02a - Learning Markdown](Read02a.md) |
 | 4 | [Read 02b - Revisions and the cloud](Read02b.md) |
 | 5 | [Read 04 - Programming with JavaScript](read04.md) |
+| 6 | [Read 05 - Operators and Loops](Read05.md) | 
