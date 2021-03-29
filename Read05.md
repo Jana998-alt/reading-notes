@@ -28,3 +28,4 @@ Syntax
 while(condition) {
     things to run if the condition is true
 }
+```
