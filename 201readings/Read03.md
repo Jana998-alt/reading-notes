@@ -26,6 +26,8 @@ Can be **hidden** or **scroll**
 _Around the box_
 
 There are: Borders, Margins, and padding. Check the image: 
+
+![Box-Model](201readings/boxmodel.png)
  
 Some of Border’s properties: width, style, color, or rounded corners (border-radius: 80px 50px )
 
