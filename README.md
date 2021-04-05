@@ -6,12 +6,25 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 **Checkout [My GitHub](https://github.com/Jana998-alt) profile link.**
 
 
+## Code 102 Reading Notes
 | Number | Contents |
 | --- | --- |
-| 1 | [Growth mindset](Growthmindset.md) |
-| 2 | [Read 01 - a coder's computer](Read01.md) |
-| 3 | [Read 02a - Learning Markdown](Read02a.md) |
-| 4 | [Read 02b - Revisions and the cloud](Read02b.md) |
-| 5 | [Read 04 - Programming with JavaScript](read04.md) |
-| 6 | [Read 05 - Operators and Loops](Read05.md) | 
-| 7 | [Read 06 - Design web pages with CSS](Read06.md) |
+| 1 | [Growth mindset](102readings/Growthmindset.md) |
+| 2 | [Read 01 - a coder's computer](102readings/Read01.md) |
+| 3 | [Read 02a - Learning Markdown](102readings/Read02a.md) |
+| 4 | [Read 02b - Revisions and the cloud](102readings/Read02b.md) |
+| 5 | [Read 04 - Programming with JavaScript](102readings/read04.md) |
+| 6 | [Read 05 - Operators and Loops](102readings/Read05.md) | 
+| 7 | [Read 06 - Design web pages with CSS](102readings/Read06.md) |
+
+
+## Code 201 Reading Notes
+
+| Number | Contents |
+| --- | --- |
+| 1 | []() |
+| 2 |  |
+| 3 |  |
+| 4 |  |
+| 5 |  |
+| 6 |  |
