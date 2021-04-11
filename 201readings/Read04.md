@@ -14,7 +14,7 @@ For example, to do a multi column design, use the attributes: float, width, and 
 
 ### Screen sizes
 
-	Designs should adapt to different screen sizes. The elements sizes and positioning differ with different screen sizes(pixels or physical size). The screen should look friendly in all possibilities. You can set the size of elements to be fixed in all screen sizes or you can make them liquid. You have to be smart. 
+Designs should adapt to different screen sizes. The elements sizes and positioning differ with different screen sizes(pixels or physical size). The screen should look friendly in all possibilities. You can set the size of elements to be fixed in all screen sizes or you can make them liquid. You have to be smart. 
 
 ## Functions
 
