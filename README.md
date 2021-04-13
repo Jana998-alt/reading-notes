@@ -25,6 +25,6 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 1 | [Reading 03: HTML Lists, Control Flow with JS, and the CSS Box Model.](201readings/Read03.md) |
 | 2 | [Read: 04 - HTML Links, CSS Layout, JS Functions](201readings/Read04.md) |
 | 3 | [Read: 05 - HTML Images; CSS Color & Text](201readings/Read05.md) |
-| 4 |  |
-| 5 |  |
+| 4 | [Read: 08 - More CSS Layout](201readings/Read08.md) |
+| 5 | []() |
 | 6 |  |
