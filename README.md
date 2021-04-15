@@ -6,6 +6,7 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 **Checkout [My GitHub](https://github.com/Jana998-alt) profile link.**
 
 
+
 ## Code 102 Reading Notes
 | Number | Contents |
 | --- | --- |
@@ -18,6 +19,7 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 7 | [Read 06 - Design web pages with CSS](102readings/Read06.md) |
 
 
+
 ## Code 201 Reading Notes
 
 | Number | Contents |
@@ -27,4 +29,4 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 3 | [Read: 05 - HTML Images; CSS Color & Text](201readings/Read05.md) |
 | 4 | [Read: 08 - More CSS Layout](201readings/Read08.md) |
 | 5 | [Read: 09 - Forms and Events](201readings/Read09.md) |
-| 6 |  |
+| 6 | [Read: 10 - JS Debugging](201readings/Read10.md) |
