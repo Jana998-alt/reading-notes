@@ -31,3 +31,10 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 5 | [Read: 09 - Forms and Events](201readings/Read09.md) |
 | 6 | [Read: 10 - JS Debugging](201readings/Read10.md) |
 | 7 | [Read: 12 - Docs for the HTML <canvas> Element & Chart.js](201readings/Read12.md)|
+
+
+
+## Code 301 Reading Notes
+| Number | Contents |
+| --- | --- |
+| 1 | [Reading03: Passing Functions as Props](301readings/read3.md) |
