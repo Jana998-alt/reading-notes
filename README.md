@@ -42,3 +42,4 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 1 | [Reading03: Passing Functions as Props](301readings/read3.md) |
 | 2 | [Read04: React and Forms](301readings/read4.md) |
 | 3 | [Read05: Putting it all together - React](301readings/read5.md) |
+| 4 | [Reading06: NODE.JS](301readings/read06.md) |
