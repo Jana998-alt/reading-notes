@@ -50,4 +50,5 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 9 | [Read09: FUNCTIONAL PROGRAMMING ](301readings/read09.md) |
 | 10 | [ead10: In memory storage ](301readings/read10.md) |
 | 11 | [Read11: Authentication](301readings/read11.md) |
+| 12 | [Read11: Mongo and Mongoose](301readings/read12.md) |
 | 13 | [Read13: CRUD](301readings/read13.md) |
