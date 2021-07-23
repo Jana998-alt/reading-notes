@@ -39,13 +39,15 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 
 | Number | Contents |
 | --- | --- |
-| 1 | [Reading03: Passing Functions as Props](301readings/read3.md) |
-| 2 | [Read04: React and Forms](301readings/read4.md) |
-| 3 | [Read05: Putting it all together - React](301readings/read5.md) |
-| 4 | [Reading06: NODE.JS](301readings/read06.md) |
-| 5 | [Read11: Authentication](301readings/read11.md) |
+| 1 | [Reading01: Introduction to React and Components](301readings/read01.md) |
+| 2 | [Read02: State and Props](301readings/read02.md) |
+| 3 | [Reading03: Passing Functions as Props](301readings/read3.md) |
+| 4 | [Read04: React and Forms](301readings/read4.md) |
+| 5 | [Read05: Putting it all together - React](301readings/read5.md) |
+| 6 | [Reading06: NODE.JS](301readings/read06.md) |
 | 7 | [Read07: REST](301readings/read07.md) |
 | 8 | [Read08: API Design Best Practices ](301readings/read08.md) |
 | 9 | [Read09: FUNCTIONAL PROGRAMMING ](301readings/read09.md) |
 | 10 | [ead10: In memory storage ](301readings/read10.md) |
+| 11 | [Read11: Authentication](301readings/read11.md) |
 | 13 | [Read13: CRUD](301readings/read13.md) |
