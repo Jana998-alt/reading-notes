@@ -46,4 +46,5 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 5 | [Read11: Authentication](301readings/read11.md) |
 | 7 | [Read07: REST](301readings/read07.md) |
 | 8 | [Read08: API Design Best Practices ](301readings/read08.md) |
+| 8 | [Read09: FUNCTIONAL PROGRAMMING ](301readings/read09.md) |
 | 13 | [Read13: CRUD](301readings/read13.md) |
