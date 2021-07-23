@@ -44,4 +44,5 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 3 | [Read05: Putting it all together - React](301readings/read5.md) |
 | 4 | [Reading06: NODE.JS](301readings/read06.md) |
 | 5 | [Read11: Authentication](301readings/read11.md) |
+| 7 | [Read07: REST](301readings/read07.md) |
 | 13 | [Read13: CRUD](301readings/read13.md) |
