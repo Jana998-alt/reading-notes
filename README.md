@@ -67,3 +67,4 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 3 | [Readings: FileIO & Exceptions](401readings/read03.md) | 
 | 4 | [Readings: Game of Greed 2](401readings/read07.md) | 
 | 9 | [Readings: Game of Greed 4](401readings/read09.md) | 
+| 10 | [Stacks & Queues](401readings/read10.md) |
