@@ -1,7 +1,7 @@
 # Read04 
 
 ## Classes and Objects
-Classes are templetes to “make” objects. 
+Classes are templets to “make” objects. 
 Ok lets go backwards a little bit. Objects in programming are representations of real world objects with properties and methods. For example: class particles is a template to create particles, like electrons, protons, …
 All particles have properties like mass, charge, spin … and methods, like: transition, decay, … 
 
