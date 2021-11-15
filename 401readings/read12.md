@@ -15,7 +15,7 @@ Each column in a DataFrame is a Series, and can be displayed like this: ``` df["
 a package to manipulate data based of the idea of _data frame_. 
 
 methods to use on data-frames:
-- df.describe()  -> tell baisc statistics about the df
+- df.describe()  -> tell basic statistics about the df
 - df.value_counts()  -> the number of certain data in df
-- df.groupby()  -> groups data depending on a certain critieria.
+- df.groupby()  -> groups data depending on a certain criteria.
 - df.plot()  -> for plotting data, and it has many arguments to customize the graph as you want.

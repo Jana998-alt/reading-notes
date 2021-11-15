@@ -70,3 +70,4 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 9 | [Readings: Game of Greed 4](401readings/read09.md) | 
 | 10 | [Stacks & Queues](401readings/read10.md) |
 | 12 | [Pandas](401readings/read12.md) |
+| 13 | [Linear Regressions ](401readings/read13.md) |
