@@ -73,3 +73,4 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 12 | [Pandas](401readings/read12.md) |
 | 13 | [Linear Regressions](401readings/read13.md) |
 | 15 | [Trees](401readings/read15.md) |
+| 16 | [ Machine Learning Intro](401readings/read16.md) |
