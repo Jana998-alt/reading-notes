@@ -1,4 +1,4 @@
-# Readings: Intro to Django
+# Intro to Django
 
 ## Getting started with Django
 

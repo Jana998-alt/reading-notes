@@ -75,3 +75,4 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 15 | [Trees](401readings/read15.md) |
 | 16 | [ Machine Learning Intro](401readings/read16.md) |
 | 18 | [Automation](401readings/read18.md) |
+| 19 | [Intro to Django](401readings/read26.md) |
