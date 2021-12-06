@@ -23,6 +23,7 @@ Django also provides a way to translate URLs according to the active language.
 Django’s template language is designed to strike a balance between power and ease. It’s designed to feel comfortable and easy-to-learn to those used to working with HTML, like designers and front-end developers. But it is also flexible and highly extensible, allowing developers to augment the template language as needed.
 
 ```
+
  <ul>
     {% for band in bands %}
       <li>
@@ -31,11 +32,12 @@ Django’s template language is designed to strike a balance between power and e
       </li>
     {% endfor %}
     </ul>
+    
 ```
 
 - Authentication
 Django comes with a full-featured and secure authentication system. It handles user accounts, groups, permissions and cookie-based user sessions. This lets you easily build sites that allow users to create accounts and safely log in/out.
 
-# How Django Works Behind the Scenes
+## How Django Works Behind the Scenes
 
 Django’s code is open source and available to all. Django’s organization is managed by a non-profit, the DSF, with a miniscule budget. And Django code is lead by a core team of volunteers, two paid Django Fellows, and a larger group of contributors.
