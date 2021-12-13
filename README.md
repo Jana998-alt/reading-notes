@@ -77,4 +77,6 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 18 | [Automation](401readings/read18.md) |
 | 19 | [Intro to Django](401readings/read26.md) |
 | 20 | [Django Forms](401readings/read28.md) |
+| 30 | [hash tables](401readings/read30.md) |
 | 31 | [Django REST Framework & Docker](401readings/read31.md) |
+| 32 | [Permissions & Postgresql](401readings/read32.md) |
