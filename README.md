@@ -81,4 +81,5 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 31 | [Django REST Framework & Docker](401readings/read31.md) |
 | 32 | [Permissions & Postgresql](401readings/read32.md) |
 | 36 | [Graphs](401readings/read36.md) |
-| 36 | [DSA Review](401readings/read37.md) | 
+| 37 | [DSA Review](401readings/read37.md) | 
+| 37 | [React 1](401readings/read38.md) |
