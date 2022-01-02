@@ -87,4 +87,5 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 35 | [DSA Review](401readings/read35.md) | 
 | 36 | [React 1](401readings/read36.md) |
 | 38 | [React 2](401readings/read38.md) |
+| 39 | [React 3](401readings/read39.md) |
 
