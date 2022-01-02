@@ -89,3 +89,5 @@ I am a fresh physics graduate, and although I adore physics, I just can not stic
 | 38 | [React 2](401readings/read38.md) |
 | 39 | [React 3](401readings/read39.md) |
 | 41 | [React 4](401readings/read41.md) |
+| 42 | [Pythonism](401readings/read42.md) |
+  
